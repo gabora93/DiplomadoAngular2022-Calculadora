@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+html{
+    background-image: "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-photo%2Fgreen-nebula-black-galaxy-background_19153031.htm&psig=AOvVaw1RkC71f4-R4ieQMWBUbxTA&ust=1668056250054000&source=images&cd=vfe&ved=0CA0QjRxqFwoTCIC84POnoPsCFQAAAAAdAAAAABAE";
+    @import "~bootstrap-icons/font/bootstrap-icons.css";
+}
